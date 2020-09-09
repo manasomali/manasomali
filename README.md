@@ -1,5 +1,10 @@
-### Hi there 👋
-[![HitCount](http://hits.dwyl.com/manasomali/manasomali/manasomali.svg)](http://hits.dwyl.com/manasomali/manasomali/manasomali)
+### Olá
+<p align="center">
+  [![HitCount](http://hits.dwyl.com/manasomali/manasomali/manasomali.svg)](http://hits.dwyl.com/manasomali/manasomali/manasomali)
+  <a href="matheus.nascimento.marques@gmail.com"><img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg" alt="gmail" style="vertical-align:top margin:6px 4px"></a>
+  <a href="https://www.linkedin.com/in/matheus-nascimento-904698128/"><img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top margin:6px 4px"></a>
+</p>
+
 
 <!--
 **manasomali/manasomali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
