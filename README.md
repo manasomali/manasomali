@@ -1,8 +1,8 @@
 ### Olá
 <p align="center">
   [![HitCount](http://hits.dwyl.com/manasomali/manasomali/manasomali.svg)](http://hits.dwyl.com/manasomali/manasomali/manasomali)
-  <a href="matheus.nascimento.marques@gmail.com"><img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg" alt="gmail" style="vertical-align:top margin:6px 4px"></a>
-  <a href="https://www.linkedin.com/in/matheus-nascimento-904698128/"><img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top margin:6px 4px"></a>
+  <a href="matheus.nascimento.marques@gmail.com" target="_blank"><img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg" alt="gmail" style="vertical-align:top margin:6px 4px"></a>
+  <a href="https://www.linkedin.com/in/matheus-nascimento-904698128/" target="_blank"><img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top margin:6px 4px"></a>
 </p>
 
 
