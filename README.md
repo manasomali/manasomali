@@ -1,7 +1,7 @@
 ### Olá
 [![HitCount](http://hits.dwyl.com/manasomali/manasomali/manasomali.svg)](http://hits.dwyl.com/manasomali/manasomali/manasomali)
 <p align="center">
-  <img alt="dog" src="https://gifs.com/gif/dog-6XQ2qQ">
+  <iframe src='//gifs.com/embed/dog-6XQ2qQ' frameborder='0' scrolling='no' width='640px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 </p>
 <p align="left">
   <a href="mailto:matheus.nascimento.marques@gmail.com" target="_blank"><img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg" alt="gmail" style="vertical-align:top margin:6px 4px"></a>
