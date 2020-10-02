@@ -1,5 +1,4 @@
 ### Olá
-[![HitCount](http://hits.dwyl.com/manasomali/manasomali/manasomali.svg)](http://hits.dwyl.com/manasomali/manasomali/manasomali)
 <p align="center">
   <img alt="dog" src="https://j.gifs.com/6XQ2qQ.gif">
 </p>
