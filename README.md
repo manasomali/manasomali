@@ -1,4 +1,3 @@
-### Olá
 <p align="center">
   <img alt="dog" src="https://j.gifs.com/6XQ2qQ.gif">
 </p>
