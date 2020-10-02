@@ -1,10 +1,10 @@
 ### Olá
 <p align="center">
   <img alt="dog" src="https://j.gifs.com/6XQ2qQ.gif">
-</p>
-<p align="left">
-  <a href="mailto:matheus.nascimento.marques@gmail.com" target="_blank"><img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg" alt="gmail" style="vertical-align:top margin:6px 4px"></a>
-  <a href="https://www.linkedin.com/in/matheus-nascimento-904698128/" target="_blank"><img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top margin:6px 4px"></a>
+  ---
+  [![facebook](http://i.imgur.com/yCsTjba.png)][2]<a href="mailto:matheus.nascimento.marques@gmail.com" target="_blank">
+  [![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]<a href="https://www.linkedin.com/in/matheus-nascimento-904698128/" target="_blank">
+  ---  
 </p>
 
 <!--
