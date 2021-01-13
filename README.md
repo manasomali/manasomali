@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="dog" src="https://j.gifs.com/6XQ2qQ.gif"><br>
-  <a href="https://imanasomali.vercel.app" target="_black">Site pessoal</a>
+  <a href="https://imanasomali.vercel.app" target="_blak">Site pessoal</a>
 </p>
 
 <!--
