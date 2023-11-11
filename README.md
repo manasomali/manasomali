@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="dog" src="https://j.gifs.com/6XQ2qQ.gif"><br>
+  <img alt="dog" src="https://media.tenor.com/2g8VHWu_d4UAAAAC/cake-i-do-not-want-cake.gif"><br>
   <a href="https://manasomali.com" target="_blank">Site pessoal</a>
 </p>
 
